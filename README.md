@@ -1,2 +1,2 @@
 # d365-plugins
-Integrate plugins within D365 environment
+MTC Dynamics 365 plugins strategy briefing /demo 
